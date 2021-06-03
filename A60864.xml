@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some short remarks upon a book, entituled, An answer (but is none) to Dr. Stillingfleet's sermon, by some nonconformists in a letter to his friend in London from a person of quality in the country.</title>
+         </titleStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60864</idno><idno type="EEBO-CITATION">11939578</idno>
+  <idno type="VID">51240</idno>
+  <idno type="EEBO-PROQUEST">2248518224</idno>
+  
+            <idno type="STC">Wing S4616</idno>
+            <idno type="STC">ESTC R18529</idno>
+            <idno type="OCLC">11939578</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A60864)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 51240)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 513:54)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some short remarks upon a book, entituled, An answer (but is none) to Dr. Stillingfleet's sermon, by some nonconformists in a letter to his friend in London from a person of quality in the country.</title>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Randall Taylor,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Humfrey, John, 1621-1719. --  Answer to Dr. Stillingfleet's book of the unreasonableness of separation.</term>
+               <term type="topical_term">Dissenters, Religious --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:51240:1"/>
+            <pb facs="tcp:51240:1"/>
+            <p>SOME SHORT REMARKS Upon a BOOK, Entituled, <hi>AN ANSWER</hi> (But is none) <hi>To Dr.</hi> STILLINGFLEET'S <hi>Sermon,</hi> BY SOME NONCONFORMISTS. In a Letter to his Friend in <hi>London</hi> From a Person of Quality in the Country.</p>
+            <q>
+               <p>He that entreth not by the Door, but climbeth up some other way, is a Thief and a Robber.</p>
+               <bibl>
+                  <hi>John 10.1.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>Let every thing be done decently and in order.</p>
+               <bibl>
+                  <hi>1 Cor. 14.40.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Randal Taylor,</hi> 1680.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:51240:2"/>
+            <pb n="3" facs="tcp:51240:2"/>
+            <head>Some short Remarks upon a Book entituled, <hi>An Answer</hi> (but is none) to <hi>Dr. Stillingfleet's</hi> Sermon.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Received your Letter, inclosing a little Book, entituled, <hi>An Answer to Dr. Stillingfleet's Sermon by some Nonconformists.</hi> And because you desired me, I have read it over, and that with great expectation to have found some things considerable in it, which might have answered the great promises of the <hi>Title Page,</hi> viz. <hi>The Im<g ref="char:EOLhyphen"/>putation of Schism removed. Nonconformity justified. And Materials to heal both Parties offered.</hi> But really, Sir, upon perusal of the whole matter (though I have as much inclina<g ref="char:EOLhyphen"/>tion as any man to allow the utmost weight to Arguments, brought in favour of tender Consciences, properly so called) I must say, that I am where I was, and find little or nothing but what hath been often said, and as often answered.</p>
+            <p>The Subscription, on the Title Page <hi>(Are they Ministers if Christ? so are we)</hi> Is a pittiful begging of the Question; and if they could prove that, or we allow it, much of the Quarrel would fall to the Ground: but as they have never been, nor probably will ever be, able to prove that, most of what they say is not material.</p>
+            <p>It would be an extravagant presumption in me, though no uneasy task, to undertake to prove and justify not the Law<g ref="char:EOLhyphen"/>fulness, and Authority, but the necessity of Episcopacy, which hath been the work of so many learned Divines, and
+<pb n="4" facs="tcp:51240:3"/>others of our Church, enough to convince any thing but pre<g ref="char:EOLhyphen"/>pared and covenanted Obstinacy.</p>
+            <p>I shall therefore give you some private Remarks, of what I observed in running over the Ramble.</p>
+            <p>The Stile, at first, is so seemingly humble and creeping, that without question it will prevail with some Women, to conclude, That it proceeded from the Spirit of Meekness, and consequently of Truth. But to any ordinary Observer there will appear so much Venome, so many biting Snakes in the Grass, that we may rather fear, it is the issue of that <hi>old Serpent,</hi> that Roves about seeking whom he can insnare and devour.</p>
+            <p>For after a Profession made of what Veneration they have for <hi>Parochial Churches, and the Service there,</hi> yet the <hi>Conven<g ref="char:EOLhyphen"/>ticle is the more spiritual, plain, and simply zealous Service of Almighty God, which they cannot leave for a Form of Worship and Discipline; that carrying a countenance of both, but being rather only a kind of Idols of them, doth seem to them by the Shew, Pomp and Complement of the things it contains not, to undermine the Life, Power and Efficacy of the one and the other.</hi> (<hi>fol.</hi> 9.) Which is so modest a Character of our publick Litur<g ref="char:EOLhyphen"/>gy, compil'd by so many learned Divines, and Martyrs, that justified it with their Blood, that could not proceed but from the meek Spirit of the Presbyterian.</p>
+            <p>(<hi>Fol.</hi> 4.) That insolent Argument of comparing them<g ref="char:EOLhyphen"/>selves to the Apostles, and that <hi>they must obey God rather than Man,</hi> hath been lately answered by the Author of <hi>Curse ye Meroz</hi> (a Person, had he dressed his Truths in a more decent Habit, and not play'd so much the Man in some Scholastick Points, he might have passed for a very good Assertor of Truth and Loyalty.)</p>
+            <p>That Slip, as they term it, of Dr. <hi>Tillotson</hi>'s Pen, is a rea<g ref="char:EOLhyphen"/>dier way to heal all Parties, than all the Expedients ever offered by those Disturbers of our <hi>Israel,</hi> whom, I fear, no<g ref="char:EOLhyphen"/>thing
+<pb n="5" facs="tcp:51240:3"/>but another Slip can cure. For what would not the more moderate and enquiring sort of <hi>Roman Catholicks</hi> give in <hi>Spain</hi> and <hi>Italy</hi> for such a Liberty? or what in reason could we ask more, if we should be reduced under such cir<g ref="char:EOLhyphen"/>cumstances?</p>
+            <p>
+               <hi>Fol.</hi> 5. That malitious Dilemma, <hi>If we keep our Parish Churches, we must not preach the Gospel; if we preach the Gos<g ref="char:EOLhyphen"/>pel, we must go to private Meetings,</hi> is another modest insinu<g ref="char:EOLhyphen"/>ation, That the Gospel is not preached in Parish Churches, but is in Conventicles. Whereas the Gospel is the Gospel of Peace, but the very keeping of Conventicles is a declared War against all Law, Loyalty, and Allegiance; and the Text says, <hi>Obedience is better than Sacrifice.</hi>
+            </p>
+            <p>And to talk of <hi>occasional Calls, and Talents, and that the everlasting welfare of thousands of Mens Souls depends upon them,</hi> is but to Cant, and raise a Dust, thereby to cheat their gazing and gapeing Auditors.</p>
+            <p>
+               <hi>Fol.</hi> 6. 'Tis a new and untrodden way of justifying their Auditors Schism, by owning themselves Schismaticks, be<g ref="char:EOLhyphen"/>cause preaching and hearing are <hi>Relata,</hi> which do mutually destroy one another. They forget the Story of <hi>Ve<g ref="char:EOLhyphen"/>nerable Bede,</hi> who preached to more innocent Auditors; And certainly the putting of such <hi>Relatives</hi> (if not timely preven<g ref="char:EOLhyphen"/>ted by the Prudence of our Governours) will prove the de<g ref="char:EOLhyphen"/>struction of the Government and Nation.</p>
+            <p>For what else means that bold accusing of the Piety and Wisdom of the whole Nation assembled in Parliament, in their Acts for Uniformity, <hi>of Sin and Iniquity,</hi> I shall recite it in their own Language.</p>
+            <p>
+               <hi>There is yet some universal Impression on the Hearts of most honest People; which makes them tenderly sensible of the wrong we have suffered, in being turn'd out of the Vineyard for our Con<g ref="char:EOLhyphen"/>sciences: And what if any do think themselves bound hereupon in the sight of God, for the delivering their own Souls from the
+<pb n="6" facs="tcp:51240:4"/>Participation of their Sins, that have ejected us, to come sometimes to hear us, by the way of acknowledging our Ministry, and to give Respect to those they think worthy, that by this Countenance of theirs towards us, they may both bear their Testimony against the Iniquity, and offer so much as lies in their Sphere towards our Restitution; who can say but they have Reason?</hi> Who! The Law says so; The King hath said so; The two Houses of Parliament have said so; and all the loyal and orthodox Subjects of the Nation say so: And none but a factious, petulant, never-to-be-sa<g ref="char:EOLhyphen"/>tisfied Crew of People dare say the contrary. I shall only name one modest Expression of theirs more in this Paragraph of <hi>David's</hi> Words to his <hi>Surly elder Brethren.</hi>
+            </p>
+            <p>
+               <hi>Fol.</hi> 7. The next Paragraph is a Challenge to one or both of those <hi>learned, moderate, and judicious Doctors</hi> (as they please to call them, when they are in a good humour) Dr. <hi>Stillingfleet,</hi> and Dr. <hi>Tillotson,</hi> who no question, when they have nothing else to do, can easily answer a great deal more than they can say on that Subject, not<g ref="char:EOLhyphen"/>withstanding <hi>what one of them hath let us know,</hi> (as they will have it out of <hi>Hales</hi> in his Defence of the Church of <hi>England</hi> against the Romanists) <hi>It is not the Refuser, but the Imposer is guilty of Schism;</hi> which is so ridicu<g ref="char:EOLhyphen"/>lously applyed to their falling off from the Church of <hi>England,</hi> that I am asham'd to trouble you with taking notice of it. Something <hi>injoyn'd, they say, or think, is Sin. Therefore,</hi> &amp;c.</p>
+            <p>To the Paragraph of Reordination, if the Act requires it (as I cannot assure my self, having it not by me) I am sorry it does, for that seems to grant them to be already ordain'd, which to me appears to be a giving them the Question; For I always believ'd that there was no other than <hi>Episcopal Ordination in the Church</hi> of <hi>England</hi> at least. And as to the Objection of the French Protestants
+<pb n="7" facs="tcp:51240:4"/>and others abroad, I always found our Writers either leaving the Question to be decided by themselves, or else making Excuses for them, in the Condition they are in, under Popish Governours, where Episcopal Ordination will not be permitted them, <hi>&amp;c.</hi>
+            </p>
+            <p>But alas I what's this to our People at home, where they not only may, but must by Law, obtain Episcopal Ordi<g ref="char:EOLhyphen"/>nation? As for their Pretences of <hi>being made Christ</hi>'s <hi>Ministers, and put in Office by him,</hi> They would do well to prove it, this is meer begging again.</p>
+            <p>And that modest Quaery, <hi>Whether the Lawn be,</hi> de es<g ref="char:EOLhyphen"/>sentiâ <hi>to the Ceremony, and the Hands avail nothing with<g ref="char:EOLhyphen"/>out the Sleeves on?</hi> is so malitiously spoken in the Spi<g ref="char:EOLhyphen"/>rit of Meekness, that one may know by their Talons what Birds they are. They do so much hate the Bishops (Name and Thing,) that they would strip them out of those sacred Ornaments, the Piety and Prudence of our Ancestors have thought fit to invest them with, and use them as they did the late Reverend Bishop of St. <hi>Andrews</hi> in <hi>Scotland.</hi> And this they call <hi>an humble State alone of their Defence.</hi> fol. 1. <hi>And they speake it humbly only by way of Argumentation.</hi> fol. 24.</p>
+            <p>The Objections they make for their not declaring their Assent and Consent to the Common-Prayer Book <hi>&amp;c.</hi> are so mean and frivolous, that I much wonder, sober and serious Men (as no Question some of them are) should think them sufficient to cause such a Separation (that we do not call it Schism) amongst us, and such an one as hath banish'd all Ingenuity, Charity, and good Manners out of their Party, so that they cannot give the <hi>Conformists</hi> a good Word, nor have a common Respect for them. But, poor Men, after almost. 20 years poring and sifting the innocent Common-Prayer Book, they must say something, which being spoke aloud, with a
+<pb n="8" facs="tcp:51240:5"/>Bounce on the Pulpit, satisfies their deluded Hearers, as if they were as material, as those we urge against the Church of Rome.</p>
+            <p>But such as they are, take them.</p>
+            <p>The first is an Indictment against Poor <hi>Athanasius,</hi> who after so many Banishments from his Church of <hi>A<g ref="char:EOLhyphen"/>lexandria,</hi> being long since at rest in his Grave, is to be raised again by an <hi>habeas Corpus,</hi> and then exported from <hi>England</hi> too, for a whole Jury of them have found him guilty of scandalous Words, in saying, <hi>Which Faith ex<g ref="char:EOLhyphen"/>cept every one does keep whole, without doubt he shall perish everlastingly;</hi> Now say they; <hi>If we declare this, we must believe the Greek Church undoubtedly damned</hi> ('tis their own Words) <hi>for they did not believe the Procession of the Holy Ghost from the Son:</hi> which <hi>Athanasius</hi> requires of necessity to be believed. Besides what would become of <hi>Poor</hi> Socra<g ref="char:EOLhyphen"/>tes, Heraclitus, <hi>and</hi> Luthers <hi>beloved</hi> Cicero? I pray God they have so much Charity for the Heathens (for as such they esteem us) of the Church of <hi>England.</hi> And for this Reason they cannot assent and consent. I shall make no remark upon this, but help them with another Argument of the like Nature: 'Tis in the Beginning of the Publick Office for Baptism, where the Priest says, <hi>Dearly Beloved, foras<g ref="char:EOLhyphen"/>much as all Men are conceived and born in Sin, and that our Saviour Christ saith, none can enter into the Kingdom of God, except he be regenerate, and born with water and the Holy Ghost.</hi> Now if it be all one to to <hi>perish everlastingly, and not to enter into the Kingdom of God,</hi> I wonder who they'l indict in this case, either he that said it, or they that put it into the Common-Prayer Book, on purpose for them to boggle at, and so <hi>thousands of People be depriv'd of their powerful Ministery.</hi>
+            </p>
+            <p>Another Instance (say they) shall be this. <hi>In the Ser<g ref="char:EOLhyphen"/>vice on the Gunpouder-Treason, we thank God for preserving
+<pb n="9" facs="tcp:51240:5"/>the King and the three Estates of the Realm assembled: It is a difficult Point</hi> (continue they) <hi>now in the Politicks of</hi> Eng<g ref="char:EOLhyphen"/>land, <hi>Whether the three Estates be the King, the House of Lords, and the House of Commons? Or the Lords Spiritual and Temporal, and the Commons? So that till this be decided, that we may certainly know who are the three Estates, we cannot as<g ref="char:EOLhyphen"/>sent,</hi> &amp;c. <hi>for we are afraid, that any snare should be laid for the People in the exercise of their Devotions to God.</hi> This is a Po<g ref="char:EOLhyphen"/>litick Objection indeed, and such an one as is worthy the Ob<g ref="char:EOLhyphen"/>jectors: for certainly there is none but they themselves that make it, and having made it, raise an Argument from it for another thing, both proceeding from the inveterate Malice they have against the Reverend Order of Bishops, whom the Laws of <hi>England</hi> have so much Veneration for, as to own them one of the three Estates in our Parliaments. And one would think, that what the Laws and our Parliaments have enacted in such cases, should be Authority enough for us to observe and practise.</p>
+            <p>But first for them and their Party to raise an Objection, and then to make it a Case of Conscience, and such a Case of Conscience, as to cause and justify a Separation from an esta<g ref="char:EOLhyphen"/>blished Government in Church and State, is such a piece of Modesty and Ingenuity that none but <hi>Presbyterians</hi> can be guilty of. 'Twere better for them to speak the naked Truth, and say, We have taken the Covenant to pull them down, and would you have us one them to be one of the three E<g ref="char:EOLhyphen"/>states? That would be to make us Rebels to the Government, as well as Reformers of the Church. Alas! Alas! They can<g ref="char:EOLhyphen"/>not allow them either in Church or State. He tells us, far<g ref="char:EOLhyphen"/>ther for a convincing Argument of this Doctrine, by way of Question, <hi>When they were in the beginning of the Long Parlia<g ref="char:EOLhyphen"/>ment</hi> (pray observe the exulting Expression) <hi>turn'd out of the House by an Act, was there any, we know, that durst account the three Estates to be dissolved?</hi> Truly, that was a time that
+<pb n="10" facs="tcp:51240:6"/>the <hi>Presbyterians</hi> began to be so rampant, that no one durst to complain of any thing was done then, 'twas very civilly done of the Parliament to let them scape so. Others did not fare so well. And when the House of Commons turn'd out the Lords (which was a necessary consequence to the former breach made upon their House) was there any that durst say the three Estates were dissolved? And when they murthered the King, was there any that durst say the three Estates were dissolved? so that, by this way of arguing, neither King, as they say, nor Lords, as we say, were one of the three Estates. But we know well enough that 'twas then this invideous dis<g ref="char:EOLhyphen"/>pute of the three Estates took its rise, even from the meek Spirit of 41; When they endeavoured to degrade the King in<g ref="char:EOLhyphen"/>to one of the three Estates, in order to advance the House of Commons to be the King's Fellows, and Coparteners in the Government with him. A Doctrine so luscious, that it makes many of our Mouths water after it to this day; and yet in it self so unreasonable, that I cannot but wonder how it can be so confidently reassumed? The King calls a Parlia<g ref="char:EOLhyphen"/>ment, there is, the <hi>Caller,</hi> and the <hi>Called;</hi> The Parliament are the three Estates of the Realm called together, to advise with the King, the Caller, <hi>De arduis Regni negotiis.</hi> Now to make him one of the three Estates, is to make the Caller, the Called; the Advised the Adviser, and so confound all things; That we shall have a Monarchy of three Heads; a King and no King: Subjects that are, or would be Kings: and Kings, but Royal Slaves: I can tell them, that <hi>from the beginning it was not so.</hi> Once upon a time, there was in Par<g ref="char:EOLhyphen"/>liaments, the Petitioners and the Advisers, and then the King was the only Enactor (and though I would not in the least de<g ref="char:EOLhyphen"/>rogate from the Grandeur of that august Senate) yet the King is <hi>ali juid Eminens &amp; Transcendens,</hi> above all, and virtually in all, but confined in none. Like the Logicians, <hi>Ens, quod per omnia Praedicamenta pervagatur,</hi> yet is limitted to none of
+<pb n="11" facs="tcp:51240:6"/>them. And though, <hi>fol.</hi> 18. They would insinuate, <hi>That our Laws are, quas Vulgus elegerit,</hi> we deny it, and af<g ref="char:EOLhyphen"/>firm that the Laws of a Monarchy, as ours is, are not <hi>Plebiscita,</hi> no nor <hi>Senatus-Consulta</hi> neither, but Imperial Decrees; 'Tis not, <hi>An Populus vult,</hi> but <hi>Le Roy le veult,</hi> that gives the Stamp and Character to our Laws. Though the two Houses may frame and advise the matter, as Coyners do Silver and Gold, yet it is the Impression and Stamp of the King that makes it current Money, and that gives the Form to our Laws. The King, as he is the Fountain of Honour, so he is of Law and Justice. And though the Words, <hi>by the Advice and Consent,</hi> are used in our late Acts, let us gratefully acknowledge what the Bounty and Indulgence of our Kings hath granted us, without drawing Consequences to the Confusion of that Order and Subordination, that hath upheld this Kingdom in Splendor and Greatness for so many Ages.</p>
+            <p>But to return, though we could not determine this ticklish Question (that ought not to have been raised) to conclude therefore, That <hi>no Man can give his unfeigned Assent to any thing he certainly knows not, nor understands not,</hi> is such a Latitude, that I fear the Doctrine of the Trinity, Incarnation, Passion of our Saviour, his Descent into Hell, Ascent into Heaven, and many other things, that are believ'd by all, or most, yet scarce well known and understood by any, must not be assented to, but there will be a necessity to turn out the Apostles Creed too out of the Church, in order to let the Presbyterians in.</p>
+            <p>
+               <hi>Fol.</hi> 12. They dare not consent to that hard Word, <hi>Hierarchy, with the Ceremonies, &amp;c.</hi> And they bring Scrip<g ref="char:EOLhyphen"/>ture to justifie them in it, <hi>If</hi> (say they in Scripture words) <hi>we build again what we have destroyed, we make our selves Transgressors?</hi> What is this but to glory in all the Mischiefs they have brought upon this Nation these last 40 years,
+<pb n="12" facs="tcp:51240:7"/>and to make that an Argument for a necessity to persist in the same Opinion? And if they had opportunity to act over again all those Villanies they once, to the shame of Christianity, that I say not of Humanity it self, so wo<g ref="char:EOLhyphen"/>fully perpetrated. That is, they did, as much as in them lay, destroy the best of Churches, actually murthered, the best of Kings, and <hi>shall they now build again the things they so lately destroyed?</hi> God forbid they should be such Transgressors.</p>
+            <p>In this next Paragraph they tell all, saying, <hi>There hath passed a solemn Oath over the Nation, engaging the main Body of it to endeavour a Reformation. Now when the same Government is return'd upon the Land, with all its former Corruptions, and more heavy Injunctions, if we should generally submit again to it, without obtaining any Amendment, Com<g ref="char:EOLhyphen"/>position, or Abatement, we dread to think on it, with what Faces they shall be able to stand before God, who have lift up their Hands to him for things quite contrary, in the late Revolutions.</hi> And may not we rather wonder, that there can be Men, that pretend themselves to be the <hi>most God<g ref="char:EOLhyphen"/>ly, Zealous, Charitable, Meek, and Humble of all Men,</hi> should have faces to stand before God or Man, while they make it a piece of Religion to justify the most horrid Rebellion in the World, under the gentle Term of <hi>Revolutions?</hi> and own the Obligation of an illegal Oath, illegally im<g ref="char:EOLhyphen"/>posed, by Rebels with Swords in their Hands, upon their fellow Subjects, not as these Men foolishly think <hi>out of a Design of Reformation,</hi> either in Church or State, but to swallow up the Estates of the more consciencious Refu<g ref="char:EOLhyphen"/>sers? as the success, <hi>proh dolor!</hi> made it evident. But this is a Subject that hath been so fully treated of by several worthy Persons, convincing all Persons, not willfully blind, <hi>That there lie h no Obligation upon any Man to endeavour to perform an illegal Oath, illegally imposed on the Nation
+<pb n="13" facs="tcp:51240:7"/>without the Kings Authority</hi> &amp;c. <hi>but rather the contrary:</hi> that I shall only make use of their own Words in another case, fol. 30. <hi>This may seem hard</hi> (say they) <hi>to many in this Parliament to undo any thing themselves have done in a former. But this is no Rule for Christians, who are sometimes to repent, as well as to believe.</hi> I shall only intreat them to apply it to themselves, and if they are Christians, let them re<g ref="char:EOLhyphen"/>pent; if they are not, let them not pretend to it.</p>
+            <p>The Instances they produce out of the Common-Pray<g ref="char:EOLhyphen"/>er Book, as I told you, are so frivolous, that I will but name them. viz. <hi>Ahaziah's age</hi> (though not there.) <hi>They were not obedient to his Word. Easter Almanack; saying daily the Prayer of the Church, Episcopal Ordination; God-fathers; The Charity to say of the Deceased, that God of his Mercy hath taken his Soul unto himself. Holy days, because six Days thou shalt labour;</hi> what will become of Lectures, Fasts, and thanksgiving Dinners? And lastly, beloved, <hi>The use of the Cross in Baptism.</hi> All which notwithstanding in that very Paragraph, <hi>fol.</hi> 17. They say, that <hi>in Cir<g ref="char:EOLhyphen"/>cumstances of Worship, wherein, the Church hath proper Au<g ref="char:EOLhyphen"/>thority to appoint what is decent and orderly.</hi> And notwith<g ref="char:EOLhyphen"/>standing the Rubrick directs to the Canon, where the Signification of the use of the Sign of the Cross is sully explained, it will not down.</p>
+            <p>To the Subscription and Oath, they do but repeat the same things, <hi>They think Episcopacy against Scripture, there<g ref="char:EOLhyphen"/>fore how can they be abridged to endeavour the Alteration, to which they are obliged by Oath, and the Word of God?</hi> fol. 19. And <hi>what an anointed Plot,</hi> (say they,) <hi>have we here had on the Nation, that an Allegiance in effect should be sworn to the Bishops as well as to the King, by such Impositions?</hi> What an ano nted Pack of Knaves are these, that will deny their Allegiance to their King, because at the same time they are bound to a Canonical Obedience to their Bishop?
+<pb n="14" facs="tcp:51240:8"/>That old saying, <hi>No Bishop, no King,</hi> hath been so lately ve<g ref="char:EOLhyphen"/>rified, that we hope it will never be left to them again to re<g ref="char:EOLhyphen"/>peat. I know not whether they are free to take the Oath of Allegiance, but as for the Supremacy, <hi>Fol.</hi> 30. 'tis only in an <hi>accidental external respect, and so he is to be acknowledged Supream Head, and no otherwise.</hi> And in <hi>Fol.</hi> 31. <hi>We hold him the Supream coercive Governour of all, in this accidental re<g ref="char:EOLhyphen"/>gard,</hi> &amp;c. To say the Truth, they make him as little as they can both in his Government of Church and State, and if they had the Reins in their own Hands, they would make him less.</p>
+            <p>The next Paragraph is a laboured Piece to find a way to take up Arms against the King by Law. And the strength of the Argument lies in this, <hi>The King is subject to the Law;</hi> (but we are not) <hi>He is sworn to maintain it;</hi> (but we will neither swear nor maintain it.)</p>
+            <p>But that rugged phrase, <hi>I abhor that traiterous Position,</hi> quite choaks 'em. <hi>Grave</hi> Calamy <hi>himself was much offended at it.</hi> And indeed it is against the nature of those People to abhor Treason. Nay they have a secret Antipathy, to call Treason Traiterous. <hi>Some cooler word would have served the turn. Abhor! God defend us, 'tis like reading the Story of</hi> Bel <hi>and the Dragon on St.</hi> Clements Day. <hi>Fol.</hi> 16. And yet <hi>Fol.</hi> 11. <hi>They abhor to declare their Assent to the bare use of the Common Prayer; or to have the wise and ingenuous of their particular perswasion think they believe it.</hi> And indeed I am apt to be<g ref="char:EOLhyphen"/>lieve, This is the Hinge of the whole Controversy, upon which Nonconformity hangs. That is, seeing they have talked so big in their Meetings against Conformity, they are asham'd to go back from what they have said; for what would their deluded People say. This makes them <hi>abhor, and ab<g ref="char:EOLhyphen"/>hor, and abhor.</hi>
+            </p>
+            <p>But the ingenuous Distinction of <hi>abhor and disallow,</hi> instan<g ref="char:EOLhyphen"/>ced in, that <hi>there is never a Gentleman in the Land, but might
+<pb n="15" facs="tcp:51240:8"/>swear that he believes it unlawful to company with another Wo<g ref="char:EOLhyphen"/>man as his own Wife. But if each one were to swear that he ab<g ref="char:EOLhyphen"/>hors it, we suppose, some Sons of the Church would be willing to be Nonconformists to such an Oath.</hi> Nonconformists, why? Probably with them there is a liberty to lead about a Sister (and that makes them so numerous) without Sin or Scandal. God's Lambs, you know, must play. And so it be the Godly with the Godly, there is no unlawfulness or matter of abhor<g ref="char:EOLhyphen"/>rence in it. Though Lawn will choak them, Holland will go down, and up too. But why <hi>some Sons of the Church</hi> (an<g ref="char:EOLhyphen"/>other meek expression) though we are no way asham'd of it. If they are not Sons, I know what they are, <hi>Illud quod dicere nolo.</hi>
+            </p>
+            <p>
+               <hi>Fol.</hi> 22. This whole Paragraph is a Lecture of stating the critical Minute, when Kings are to be Deposed, and are no longer Kings. And therefore the Compilers of the Subscripti<g ref="char:EOLhyphen"/>on and Oath, were much to blame to oblige men to swear, <hi>on no pretence whatsoever.</hi> And then to swear positively, <hi>It it not lawful to take up Arms, &amp;c.</hi> when it is <hi>a proposition que<g ref="char:EOLhyphen"/>stioned, and is but a controverted Doctrine.</hi> For whereas he quotes only <hi>Barclay, Grotius,</hi> and <hi>Arnisaeus,</hi> he might have named <hi>Calvin, Case,</hi> and <hi>Calamy,</hi> and the whole Pack of Non<g ref="char:EOLhyphen"/>conformists, who though they differ in other matters, they all agree in this, That Kings are to be resisted if they hinder the Government of Jesus Christ, which is every one of their different perswasions.</p>
+            <p>The remaining part is a Plot upon the Parliament to make them (that is those of this present Parliament, that were concerned in passing the Acts for Uniformity) to be asham'd of what they have done, <hi>&amp;c.</hi> And, when they have seen their error, to consent to an explanatory Act (which they have ready cut and dry'd) that quite contradicts the former; which I shall leave them to consider. Only I shall observe, that as they began in an <hi>humble, meek, modest, manner of Language</hi>
+               <pb n="16" facs="tcp:51240:9"/>(as they call it) so they end: for, speaking of the <hi>Pluralists,</hi> Fol. 33. <hi>They term them an Idle, scandalous, covetously-over<g ref="char:EOLhyphen"/>grown, unprofitable Ministry,</hi> &amp;c.</p>
+            <p>Thus, Sir, begging your pardon for troubling you with these rude Notions, you commanded from me,</p>
+            <p>I remain,</p>
+            <closer>
+               <signed>Your most obedient Servant.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
